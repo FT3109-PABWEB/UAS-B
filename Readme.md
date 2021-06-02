@@ -58,4 +58,5 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 <a href="#"><img src="https://img.shields.io/badge/VSCode-1.56.2-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"alt="fork"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-8.0-brightgreen.svg?style=flat&logo=php&logoColor=white&color=777BB4"alt="php8"><a/>
+<a href="#"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"alt"markdown"><a/>
 </p>
