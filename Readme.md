@@ -8,21 +8,21 @@
 <a href="#"><img src="https://img.shields.io/badge/Kelas-B-green"><a/>
 </p>
 
-1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
+### 1. Buat `aplikasi web` dengan `tema bebas` dengan penyelesaian menggunakan 3 cara sebagai berikut (pilih salah satu) :
 
 - Native PHP7
 - Framework Codeigniter 3/4
 - Framework Laravel 8
 
-2. Secara umum, anda bebas merancang dan mendesain aplikasi anda masing-masing. Penggunaan gambar dan posisi tampilan tidak dibatasi. Namun demikian, aplikasi yang anda buat harus mengimplementasikan fitur wajib sebagai berikut :
+### 2. Secara umum, anda bebas merancang dan mendesain aplikasi anda masing-masing. Penggunaan gambar dan posisi tampilan tidak dibatasi. Namun demikian, aplikasi yang anda buat harus mengimplementasikan fitur wajib sebagai berikut :
 
 - Database
 - Menerapkan Proses _Create Read Update Delete_ (CRUD)
 
 _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (Keunggulan Tertentu). Be Creative!🎉**_
 
-3. Buat Kelompok Project **(max 4 mhs)**
-4. Pelaporan project
+### 3. Buat Kelompok Project **(max 4 mhs)**
+### 4. Pelaporan project
 
 - `Fork Repositori ini`
 - Diperbolehkan untuk melakukan `upload project ke penyedia Hosting gratis`.
