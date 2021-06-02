@@ -52,7 +52,7 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 <b>✨Selamat mengerjakan, sukses selalu✨<br>✨Happy Programming, practice make perfect✨<b/>
 </div><br/>
 
-<!-- Alignment options!!!!! -->
+<!-- END!!!!! -->
 <p align="center">
 <a href="#"><img alt="GitHub forks" src="https://img.shields.io/github/forks/FT3109-PABWEB/UAS-B?style=social"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
