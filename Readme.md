@@ -1,6 +1,6 @@
 # Repositori UAS
 
-<p align="center">
+<p align="left">
 <a href="#"><img src="https://img.shields.io/badge/KMK-FT3109-orange"></a>
 <a href="#"><img src="https://img.shields.io/badge/UAS-Pengembangan%20Aplikasi%20Berbasis%20Web-brightgreen">
 <a href="#"><img src="https://img.shields.io/badge/Semester-IV-red"></a>
