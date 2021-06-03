@@ -43,8 +43,9 @@ _**⚠️ Tersedia Nilai+ Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tambah (
 - Tugas anda dinyatakan diterima jika `branch kelompok_anda` telah `merged `dengan `branch master repositori ini.`
 
   
-#### ❌ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`. ❌
-
+```diff
++ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`.
+```
 
 <!-- Alignment options!!!!! -->
 </div><br/>
