@@ -1,7 +1,7 @@
 Silahkan lihat ke
 [Website Kami](http://ponpes-ashabul-kahfi.epizy.com/ "Websitenya Kami")
 untuk informasi lebih lengkap,
-dan ini untuk halaman admin:
+dan ini untuk 
 [Halaman Admin](http://ponpes-ashabul-kahfi.epizy.com/login.php "Halaman Admin")
 
 
