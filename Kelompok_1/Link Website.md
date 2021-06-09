@@ -1,5 +1,5 @@
 Silahkan lihat ke
-[Website Saya](http://ponpes-ashabul-kahfi.epizy.com/ "Websitenya Saya")
+[Website Kami](http://ponpes-ashabul-kahfi.epizy.com/ "Websitenya Kami")
 untuk informasi lebih lengkap,
 dan ini untuk halaman admin:
 [Halaman Admin](http://ponpes-ashabul-kahfi.epizy.com/login.php "Halaman Admin")
