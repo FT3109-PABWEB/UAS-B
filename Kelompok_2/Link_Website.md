@@ -1,0 +1,1 @@
+Untuk link website bisa diakses melalui [link ini](http://fragilestore.epizy.com/)
